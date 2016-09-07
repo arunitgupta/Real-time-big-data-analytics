@@ -10,7 +10,7 @@ Links for WiKi pages:
 
 Lab Assignment 1#  https://github.com/arunitgupta/Real-time-big-data-analytics/wiki/Lab-Assignment-1
 
-Lab Assignment 2#
+Lab Assignment 2# https://github.com/arunitgupta/Real-time-big-data-analytics/wiki/Lab-Assignment-2
 
 Lab Assignment 3#
 
