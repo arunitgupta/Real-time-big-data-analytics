@@ -8,9 +8,9 @@ This includes Lab Assignments.
 
 Links for WiKi pages:
 
-Lab Assignment 1#  https://github.com/arunitgupta/Real-time-big-data-analytics/wiki/Lab-Assignment-1
+Lab Assignment 1# <a href=" https://github.com/arunitgupta/Real-time-big-data-analytics/wiki/Lab-Assignment-1"> WiKi Lab 1</a>
 
-Lab Assignment 2# https://github.com/arunitgupta/Real-time-big-data-analytics/wiki/Lab-Assignment-2
+Lab Assignment 2# <a href=:https://github.com/arunitgupta/Real-time-big-data-analytics/wiki/Lab-Assignment-2"> WiKi Lab 2</a>
 
 Lab Assignment 3#
 
